@@ -1,0 +1,8 @@
+/* Populate tables */
+INSERT INTO productos (id, nombre, precio, cantidad) VALUES(1, 'Panasonic Pantalla LCD', 259990, 20);
+INSERT INTO productos (id, nombre, precio, cantidad) VALUES(2, 'Sony Cámara digital DSC-W320B', 123490, 12);
+INSERT INTO productos (id, nombre, precio, cantidad) VALUES(3, 'Apple iPod shuffle', 1499990, 25);
+INSERT INTO productos (id, nombre, precio, cantidad) VALUES(4, 'Sony Notebook Z110', 37990, 10);
+INSERT INTO productos (id, nombre, precio, cantidad) VALUES(5, 'Hewlett Packard Multifuncional F2280', 69990, 7);
+INSERT INTO productos (id, nombre, precio, cantidad) VALUES(6, 'Bianchi Bicicleta Aro 26', 69990, 5);
+INSERT INTO productos (id, nombre, precio, cantidad) VALUES(7, 'Mica Cómoda 5 Cajones', 299990, 20);
